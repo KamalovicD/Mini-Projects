@@ -1,6 +1,3 @@
-# Instagram: https://www.instagram.com/pycode.hubb/
-# Telegram: https://t.me/pycode_hubb
-
 import os
 import time
 
