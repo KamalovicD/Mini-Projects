@@ -1,5 +1,3 @@
-# A simple analog clock using the tkinter library for GUI, and the time and math modules for timekeeping and calculations.
-
 import tkinter as tk
 import time
 import math
